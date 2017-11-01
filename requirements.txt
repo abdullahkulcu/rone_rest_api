@@ -1,0 +1,8 @@
+mongoengine
+flask
+Flask_Cors
+requests
+pymongo
+gunicorn
+Flask_PyMongo
+guess_language-spirit
